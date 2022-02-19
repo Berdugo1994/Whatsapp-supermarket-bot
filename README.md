@@ -21,6 +21,7 @@ Add, Update, Delete, Show.
 ![alt text](https://i.postimg.cc/jC049hgp/image.png)
 
 <b>Python - Flask configuriation:</b>
+* install packages with : pip install -r requirements.txt
 * set your flask env as:
 FLASK_APP = app.py
 
